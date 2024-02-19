@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/s_arularmstrong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s_arularmstrong" height="30" width="40" /></a>
+<a href="https://twitter.com/297badman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="297badman" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/arul-armstrong/" target="blank"><img align="center" src="https://static.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="arul-armstrong" height="30" width="40" /></a>
 </p>
 
